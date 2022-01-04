@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qgf6cQHwUhLVQC48ozOOPpp9PMMc8kEAg8EX0lV7PdvUF1h7ChunBgyIPrDYOu3LeVjUwJJ23TIj3dGdrs4FRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jtphi\\source\\repos\\phillips_james_semesterProject\\phillips_james_semesterProject\\phillips_james_semesterProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jtphi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\jtphi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jtphi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jtphi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

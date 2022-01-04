@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "phillips_james_semesterProject/1.0.0": {
+        "runtime": {
+          "phillips_james_semesterProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "phillips_james_semesterProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
